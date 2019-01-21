@@ -1,7 +1,7 @@
 '''
 Created on Nov 21, 2018
 
-@author: Mark Barraclough
+@author: Mark A Barraclough
 '''
 from random import *
 
